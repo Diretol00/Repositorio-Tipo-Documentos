@@ -1,0 +1,10 @@
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\bin\Debug\Tipos_Documentos.exe.config
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\bin\Debug\Tipos_Documentos.exe
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\bin\Debug\Tipos_Documentos.pdb
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.Form_Tipos_Documentos.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.Properties.Resources.resources
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.exe
+C:\Users\ACER\Documents\ITLA\C4\Programación 2\Proyectos\Tipos_Documentos\Tipos_Documentos\obj\Debug\Tipos_Documentos.pdb
